@@ -3,6 +3,7 @@
 
 #noli{
 	list-style: none;
+	display: inline-block;
 }
 
 /*
@@ -93,7 +94,7 @@ input, select, textarea {
 	html {
 		box-sizing: border-box;
 	}
-	
+
 
 	*, *:before, *:after {
 		box-sizing: inherit;
